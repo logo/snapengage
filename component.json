@@ -1,0 +1,16 @@
+{
+  "name": "snapengage",
+  "version": "0.0.1",
+  "repo": "logo/snapengage",
+  "images": [
+    "images/logo-monochromatic.svg",
+    "images/logo.svg"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "development": {
+    "logo/logo": "*"
+  },
+  "license": "MIT"
+}

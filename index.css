@@ -1,0 +1,18 @@
+
+/**
+ * SnapEngage
+ */
+
+.logo[data-logo="SnapEngage"] {
+  width: 3.618986135em;
+  /* (857.92/272.62) * (1+.1+.05) - 0 */
+}
+
+.logo[data-logo="SnapEngage"] > * {
+  background-image: url(images/logo.svg);
+  margin: -.1em 0 -.05em 0;
+}
+
+.logo[data-logo="SnapEngage"].monochromatic > * {
+  background-image: url(images/logo-monochromatic.svg);
+}
